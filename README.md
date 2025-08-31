@@ -17,7 +17,7 @@ Aplikasi sederhana untuk mencatat daftar kegiatan (to-do list) dengan integrasi 
 
 ## 🛠️ Teknologi yang Dipakai
 
-- [Flutter](https://flutter.dev/) – Framework mobile cross-platform.
+- [Flutter](https://flutter.dev/) – Framework mobile cross-platform v3.35.2.
 - [Firebase Authentication](https://firebase.google.com/docs/auth) – Login & Register.
 - [Firebase Firestore](https://firebase.google.com/docs/firestore) – Database realtime.
 - [GetX](https://pub.dev/packages/get) – State management & routing.
